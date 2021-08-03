@@ -1,0 +1,8 @@
+[32mINFO    [0m CLover_Ui_Test.clover_app.common.log_utils:log_utils.py:21 元素clv主网币按钮 click成功
+[32mINFO    [0m CLover_Ui_Test.clover_app.common.log_utils:log_utils.py:21 元素send按钮 click成功
+[32mINFO    [0m CLover_Ui_Test.clover_app.common.log_utils:log_utils.py:21 元素输入地址栏 send成功
+[32mINFO    [0m CLover_Ui_Test.clover_app.common.log_utils:log_utils.py:21 元素输入金额栏 send成功
+[32mINFO    [0m CLover_Ui_Test.clover_app.common.log_utils:log_utils.py:21 元素继续按钮 click成功
+[32mINFO    [0m CLover_Ui_Test.clover_app.common.log_utils:log_utils.py:21 元素提交按钮 click成功
+[32mINFO    [0m CLover_Ui_Test.clover_app.common.log_utils:log_utils.py:21 元素密码 send成功
+[32mINFO    [0m CLover_Ui_Test.clover_app.common.log_utils:log_utils.py:21 元素提交按钮 click成功

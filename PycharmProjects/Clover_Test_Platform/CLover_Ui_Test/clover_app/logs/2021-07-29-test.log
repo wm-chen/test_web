@@ -1,0 +1,646 @@
+file:2021-07-29 11:44:10,173 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 11:44:23,312 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 11:44:23,354 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 11:44:24,876 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 11:44:24,900 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 11:44:25,418 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 11:44:26,747 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 11:44:26,768 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 11:44:27,557 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 11:44:29,760 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 11:44:29,777 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 11:44:30,311 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 11:46:33,565 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 11:46:45,432 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 11:46:45,479 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 11:46:47,015 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 11:46:47,042 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 11:46:47,539 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 11:46:48,809 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 11:46:48,826 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 11:46:49,628 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 11:46:52,288 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 11:46:52,812 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 11:46:52,834 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 11:47:36,122 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-29 11:47:36,144 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-29 11:47:36,998 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 11:47:38,711 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 11:47:39,269 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-29 11:47:40,973 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-29 11:47:41,523 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 11:47:41,543 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 11:47:42,378 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-29 11:47:42,394 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-29 11:47:42,414 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 11:47:42,438 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 11:47:47,801 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 11:47:48,314 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 11:49:34,297 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-29 11:49:34,319 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-29 11:49:35,302 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-29 11:49:48,523 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-29 11:49:48,537 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 11:49:50,211 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 11:49:50,227 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-29 11:49:52,436 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-29 11:49:52,994 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 11:49:53,010 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 11:56:35,760 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-29 11:56:35,790 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-29 11:56:36,658 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 11:56:39,077 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 11:56:39,112 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-29 11:56:41,955 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-29 11:56:41,984 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 11:56:42,558 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 11:56:43,442 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-29 11:56:43,469 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-29 11:56:43,497 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 11:56:43,550 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 11:56:48,755 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 11:56:49,278 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 11:58:34,931 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-29 11:58:34,954 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-29 11:58:35,855 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-29 11:58:48,158 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-29 11:58:48,699 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 11:58:50,379 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 11:58:50,397 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-29 11:58:53,128 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-29 11:58:53,143 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 11:58:53,160 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 12:06:53,586 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-29 12:06:53,616 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-29 12:06:54,498 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 12:06:56,206 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 12:06:56,231 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-29 12:06:59,009 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-29 12:06:59,033 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 12:06:59,570 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 12:07:00,432 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-29 12:07:00,460 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-29 12:07:00,495 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 12:07:00,533 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 12:07:06,799 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 12:07:06,821 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 12:09:06,846 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+file:2021-07-29 12:09:28,747 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-29 12:09:28,776 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-29 12:09:29,828 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-29 12:09:43,301 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-29 12:09:43,329 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 12:09:45,044 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 12:09:45,061 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-29 12:09:47,446 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-29 12:09:48,013 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-29 12:09:48,033 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-29 12:11:48,045 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+file:2021-07-29 13:17:37,699 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 13:17:48,886 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 13:17:48,924 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 13:17:50,432 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 13:17:50,447 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 13:17:51,720 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 13:17:51,736 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 13:17:51,753 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 13:17:52,545 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 13:17:55,212 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 13:17:55,227 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 13:17:55,245 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:16:41,527 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 14:16:41,529 - common.log_utils - ERROR: [clv主网币]元素识别失败, 失败原因 local variable 'element' referenced before assignment
+file:2021-07-29 14:16:41,530 - common.log_utils - ERROR: 元素clv主网币 click失败，失败原因 'NoneType' object is not subscriptable
+file:2021-07-29 14:18:41,555 - common.log_utils - ERROR: [send按钮]元素识别失败, 失败原因 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+file:2021-07-29 14:18:41,564 - common.log_utils - ERROR: 元素send按钮 click失败，失败原因 local variable 'element' referenced before assignment
+file:2021-07-29 14:21:32,157 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 14:21:32,158 - common.log_utils - ERROR: [clv主网币]元素识别失败, 失败原因 local variable 'element' referenced before assignment
+file:2021-07-29 14:21:32,159 - common.log_utils - ERROR: 元素clv主网币 click失败，失败原因 'NoneType' object is not subscriptable
+file:2021-07-29 14:22:39,060 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 14:22:39,099 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 14:22:40,347 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:22:40,371 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:22:41,289 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:22:55,074 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:22:55,122 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:22:56,666 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:22:56,688 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:22:57,199 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:22:58,496 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:22:58,514 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:22:59,310 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:23:02,029 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:23:02,570 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:23:02,591 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:26:40,033 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 14:26:40,069 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 14:26:41,600 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:26:41,616 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:26:42,560 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:26:56,463 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:26:56,504 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:26:58,017 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:26:58,050 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:26:58,583 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:26:59,883 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:26:59,900 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:27:00,700 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:27:03,880 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:27:03,901 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:27:04,409 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:27:06,457 - common.log_utils - INFO: 断言成功，【验证clv主网币能否转账】用例通过
+file:2021-07-29 14:27:07,471 - common.log_utils - INFO: [eth上的clv]元素识别成功
+file:2021-07-29 14:27:07,506 - common.log_utils - INFO: 元素eth上的clv click成功
+file:2021-07-29 14:27:08,381 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:27:08,400 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:27:09,252 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:27:21,357 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:27:21,396 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:27:22,920 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:27:22,940 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:27:23,451 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:27:25,646 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:27:25,661 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:27:26,454 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:27:30,232 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:27:30,741 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:27:30,759 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:27:32,954 - common.log_utils - INFO: 【验证eth的clv能否转账】用例执行失败截图
+file:2021-07-29 14:27:46,783 - common.log_utils - INFO: [bsc上的clv]元素识别成功
+file:2021-07-29 14:27:46,803 - common.log_utils - INFO: 元素bsc上的clv click成功
+file:2021-07-29 14:27:47,840 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:27:47,858 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:27:48,701 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:27:59,655 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:27:59,692 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:28:01,285 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:28:01,310 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:28:01,849 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:28:03,275 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:28:03,304 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:28:04,099 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:28:06,857 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:28:06,877 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:28:07,396 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:28:09,434 - common.log_utils - INFO: 【验证bsc的clv能否转账】用例执行失败截图
+file:2021-07-29 14:44:17,654 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 14:44:17,684 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 14:44:18,747 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:44:18,766 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:44:19,627 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:44:31,447 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:44:31,491 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:44:32,991 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:44:33,020 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:44:33,513 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:44:34,989 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:44:35,006 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:44:35,813 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:44:38,991 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:44:39,009 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:44:39,520 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:44:41,645 - common.log_utils - INFO: 断言成功，【验证clv主网币能否转账】用例通过
+file:2021-07-29 14:44:42,644 - common.log_utils - INFO: [eth上的clv]元素识别成功
+file:2021-07-29 14:44:42,673 - common.log_utils - INFO: 元素eth上的clv click成功
+file:2021-07-29 14:44:43,544 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:44:43,564 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:44:44,413 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:44:56,364 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:44:56,405 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:44:57,935 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:44:58,447 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:44:58,465 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:45:00,792 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:45:00,807 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:45:01,596 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:45:04,750 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:45:04,771 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:45:05,283 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:45:39,594 - common.log_utils - INFO: 断言成功，【验证eth的clv能否转账】用例通过
+file:2021-07-29 14:45:40,854 - common.log_utils - INFO: [bsc上的clv]元素识别成功
+file:2021-07-29 14:45:40,871 - common.log_utils - INFO: 元素bsc上的clv click成功
+file:2021-07-29 14:45:41,880 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:45:41,896 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:45:42,749 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:45:53,766 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:45:54,312 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:45:55,343 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:45:55,358 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:45:55,867 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:45:57,157 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:45:57,172 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:45:57,962 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:46:01,141 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:46:01,156 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:46:01,678 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:46:37,324 - common.log_utils - INFO: 断言成功，【验证bsc的clv能否转账】用例通过
+file:2021-07-29 14:47:33,245 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 14:47:33,311 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 14:47:34,714 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:47:34,735 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:47:36,012 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:47:48,959 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:47:49,513 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:47:50,555 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:47:50,579 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:47:51,089 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:47:52,462 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:47:52,484 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:47:53,284 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:47:56,010 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:47:56,027 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:47:56,542 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:47:58,634 - common.log_utils - INFO: 断言成功，【验证clv主网币能否转账】用例通过
+file:2021-07-29 14:47:59,618 - common.log_utils - INFO: [eth上的clv]元素识别成功
+file:2021-07-29 14:47:59,636 - common.log_utils - INFO: 元素eth上的clv click成功
+file:2021-07-29 14:48:00,770 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:48:00,788 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:48:01,633 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:48:13,142 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:48:13,691 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:48:14,735 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:48:14,751 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:48:15,272 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:48:17,449 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:48:17,462 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:48:18,249 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:48:21,414 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:48:21,424 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:48:21,947 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:48:53,757 - common.log_utils - INFO: 【验证eth的clv能否转账】用例执行失败截图
+file:2021-07-29 14:49:08,611 - common.log_utils - INFO: [bsc上的clv]元素识别成功
+file:2021-07-29 14:49:08,632 - common.log_utils - INFO: 元素bsc上的clv click成功
+file:2021-07-29 14:49:09,711 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 14:49:09,732 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 14:49:10,577 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 14:49:21,185 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 14:49:21,211 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 14:49:22,769 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 14:49:22,785 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 14:49:24,156 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 14:49:24,172 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:49:24,190 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:49:25,015 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 14:49:27,680 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 14:49:27,710 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 14:49:28,585 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 14:50:08,692 - common.log_utils - INFO: 断言成功，【验证bsc的clv能否转账】用例通过
+file:2021-07-29 15:04:17,600 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 15:04:17,636 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 15:04:18,869 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 15:04:18,890 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 15:04:19,765 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 15:04:31,952 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 15:04:31,997 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 15:04:33,519 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 15:04:33,542 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 15:04:34,050 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 15:04:35,640 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:04:35,664 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:04:36,490 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 15:04:39,727 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 15:04:40,247 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:04:40,265 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:06:26,767 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 15:06:26,809 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 15:06:27,985 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 15:06:28,600 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 15:06:29,477 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 15:06:43,402 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 15:06:43,452 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 15:06:44,962 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 15:06:44,980 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 15:06:45,500 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 15:06:46,807 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:06:46,822 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:06:47,626 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 15:06:50,359 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 15:06:50,880 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:06:50,899 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:08:52,906 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+file:2021-07-29 15:08:53,051 - common.log_utils - INFO: 【验证密码错误能否转账】用例执行失败截图
+file:2021-07-29 15:33:03,345 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 15:33:03,369 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 15:33:04,478 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 15:33:04,524 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 15:33:05,439 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 15:33:17,203 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 15:33:17,247 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 15:33:18,763 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 15:33:19,280 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 15:33:19,299 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 15:33:20,673 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:33:20,692 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:33:21,513 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 15:33:24,183 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 15:33:24,711 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:33:24,731 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:34:39,574 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 15:34:39,605 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 15:34:40,459 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 15:34:40,490 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 15:34:41,817 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 15:34:55,567 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 15:34:55,608 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 15:34:57,112 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 15:34:57,137 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 15:34:57,656 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 15:34:58,933 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:34:58,957 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:34:59,764 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 15:35:02,462 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 15:35:02,982 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:35:03,001 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:46:06,031 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 15:46:06,056 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 15:46:07,104 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 15:46:07,124 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 15:46:07,994 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 15:46:21,318 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 15:46:21,862 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 15:46:22,902 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 15:46:22,923 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 15:46:23,438 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 15:46:24,695 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:46:24,714 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:46:25,511 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 15:46:29,195 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 15:46:29,213 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:46:29,724 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:48:31,738 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+file:2021-07-29 15:48:31,890 - common.log_utils - INFO: 【验证密码错误能否转账】用例执行失败截图
+file:2021-07-29 15:50:30,689 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 15:50:30,715 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 15:50:31,766 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 15:50:31,782 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 15:50:32,637 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 15:50:44,491 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 15:50:44,553 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 15:50:46,047 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 15:50:46,066 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 15:50:46,586 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 15:50:47,867 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:50:47,886 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:50:48,674 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 15:50:51,860 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 15:50:51,879 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:50:52,386 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:53:00,747 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 15:53:00,781 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 15:53:01,815 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 15:53:01,833 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 15:53:02,680 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 15:53:15,074 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 15:53:15,640 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 15:53:16,672 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 15:53:16,690 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 15:53:17,216 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 15:53:18,511 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:53:18,528 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:53:19,322 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 15:53:22,500 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 15:53:23,014 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 15:53:23,030 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 15:53:39,758 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+file:2021-07-29 15:53:39,910 - common.log_utils - INFO: 【验证密码错误能否转账】用例执行失败截图
+file:2021-07-29 16:02:40,045 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 16:02:40,074 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 16:02:41,177 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 16:02:41,196 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 16:02:42,060 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 16:02:55,780 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 16:02:56,346 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 16:02:57,396 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 16:02:57,419 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 16:02:57,933 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 16:02:59,250 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 16:02:59,266 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 16:03:00,084 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 16:03:03,478 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 16:03:03,491 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 16:03:04,081 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 16:03:13,879 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+file:2021-07-29 16:03:14,033 - common.log_utils - INFO: 【验证密码错误能否转账】用例执行失败截图
+file:2021-07-29 16:08:57,602 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 16:08:57,637 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 16:08:58,850 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 16:08:58,872 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 16:09:00,146 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 16:09:13,611 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 16:09:14,369 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 16:09:15,417 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 16:09:15,441 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 16:09:15,947 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 16:09:17,218 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 16:09:17,240 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 16:09:18,018 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 16:09:21,744 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 16:09:21,771 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 16:09:22,293 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 16:10:40,255 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 16:10:40,287 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 16:10:41,795 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 16:10:41,821 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 16:10:42,713 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 16:10:57,555 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 16:10:57,596 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 16:10:59,127 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 16:10:59,158 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 16:10:59,666 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 16:11:00,969 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 16:11:00,990 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 16:11:01,802 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 16:11:04,986 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 16:11:05,004 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 16:11:05,521 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 16:11:20,769 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+file:2021-07-29 16:11:20,931 - common.log_utils - INFO: 【验证密码错误能否转账】用例执行失败截图
+file:2021-07-29 16:35:32,273 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 16:35:32,324 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 16:35:33,564 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 16:35:33,589 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 16:35:34,447 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 16:35:52,848 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 16:35:53,396 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 16:35:54,460 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 16:35:54,481 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 16:35:55,007 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 16:35:56,290 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 16:35:56,311 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 16:35:57,120 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 16:36:01,325 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 16:36:01,844 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 16:36:01,886 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 16:36:04,075 - common.log_utils - INFO: 【验证密码错误能否转账】用例执行失败截图
+file:2021-07-29 17:02:40,814 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 17:02:40,857 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 17:02:41,961 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:02:41,984 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:02:42,841 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:03:01,510 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:03:01,572 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:03:03,083 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:03:03,613 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:03:03,652 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:03:03,790 - common.log_utils - INFO: 【验证clv主网币能否转账】用例执行失败截图
+file:2021-07-29 17:03:18,384 - common.log_utils - INFO: [eth上的clv]元素识别成功
+file:2021-07-29 17:03:18,452 - common.log_utils - INFO: 元素eth上的clv click成功
+file:2021-07-29 17:03:19,408 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:03:19,439 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:03:20,310 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:03:37,433 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:03:38,024 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:03:39,069 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:03:39,090 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:03:39,614 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:03:39,627 - common.log_utils - INFO: 【验证eth的clv能否转账】用例执行失败截图
+file:2021-07-29 17:03:54,003 - common.log_utils - INFO: [bsc上的clv]元素识别成功
+file:2021-07-29 17:03:54,042 - common.log_utils - INFO: 元素bsc上的clv click成功
+file:2021-07-29 17:03:55,332 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:03:55,392 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:03:56,481 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:04:12,683 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:04:12,724 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:04:14,303 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:04:14,329 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:04:14,846 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:04:14,859 - common.log_utils - INFO: 【验证bsc的clv能否转账】用例执行失败截图
+file:2021-07-29 17:04:28,025 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 17:04:28,067 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 17:04:29,284 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:04:29,311 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:04:30,199 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:04:46,685 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:04:47,230 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:04:48,291 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:04:48,809 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:04:48,830 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:04:48,834 - common.log_utils - INFO: 【验证密码错误能否转账】用例执行失败截图
+file:2021-07-29 17:06:07,215 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 17:06:07,350 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 17:06:08,553 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:06:08,627 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:06:09,563 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:06:28,727 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:06:29,309 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:06:30,362 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:06:30,920 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:06:30,955 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:06:32,100 - common.log_utils - INFO: 【验证clv主网币能否转账】用例执行失败截图
+file:2021-07-29 17:06:46,159 - common.log_utils - INFO: [eth上的clv]元素识别成功
+file:2021-07-29 17:06:46,186 - common.log_utils - INFO: 元素eth上的clv click成功
+file:2021-07-29 17:06:47,182 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:06:47,213 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:06:48,121 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:07:05,008 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:07:05,574 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:07:06,631 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:07:06,659 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:07:07,176 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:07:08,187 - common.log_utils - INFO: 【验证eth的clv能否转账】用例执行失败截图
+file:2021-07-29 17:08:10,364 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 17:08:10,411 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 17:08:11,814 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:08:11,858 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:08:12,767 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:08:29,194 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:08:29,257 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:08:30,778 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:08:31,297 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:08:31,323 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:08:32,603 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:08:32,626 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:08:32,657 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 17:08:33,471 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 17:08:37,213 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 17:08:37,234 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:08:37,751 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 17:08:39,867 - common.log_utils - INFO: 断言成功，【验证clv主网币能否转账】用例通过
+file:2021-07-29 17:08:52,590 - common.log_utils - INFO: [eth上的clv]元素识别成功
+file:2021-07-29 17:08:52,633 - common.log_utils - INFO: 元素eth上的clv click成功
+file:2021-07-29 17:08:53,627 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:08:53,650 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:08:54,500 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:09:09,861 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:09:10,402 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:09:11,466 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:09:11,999 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:09:12,034 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:09:14,299 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:09:14,322 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:09:14,343 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 17:09:15,146 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 17:09:19,644 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 17:09:20,173 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:09:20,192 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 17:09:32,990 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 Message: 
+
+file:2021-07-29 17:09:33,218 - common.log_utils - INFO: 【验证eth的clv能否转账】用例执行失败截图
+file:2021-07-29 17:09:47,950 - common.log_utils - INFO: [bsc上的clv]元素识别成功
+file:2021-07-29 17:09:47,978 - common.log_utils - INFO: 元素bsc上的clv click成功
+file:2021-07-29 17:09:48,988 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:09:49,016 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:09:49,876 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:10:05,576 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:10:06,131 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:10:07,180 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:10:07,193 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:10:07,712 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:10:08,911 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:10:08,932 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:10:08,955 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 17:10:09,750 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 17:10:13,980 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 17:10:14,499 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:10:14,525 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 17:10:27,573 - common.log_utils - ERROR: 断言元素识别失败, 失败原因 Message: 
+
+file:2021-07-29 17:10:27,584 - common.log_utils - INFO: 【验证bsc的clv能否转账】用例执行失败截图
+file:2021-07-29 17:10:43,329 - common.log_utils - INFO: [clv主网币]元素识别成功
+file:2021-07-29 17:10:43,363 - common.log_utils - INFO: 元素clv主网币 click成功
+file:2021-07-29 17:10:44,638 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:10:44,654 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:10:45,518 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:11:03,105 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:11:03,630 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:11:04,678 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:11:05,197 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:11:05,227 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:11:06,476 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:11:06,496 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:11:06,517 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 17:11:07,309 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-29 17:11:11,485 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-29 17:11:11,992 - common.log_utils - INFO: [提交按钮]元素识别成功
+file:2021-07-29 17:11:12,021 - common.log_utils - INFO: 元素提交按钮 click成功
+file:2021-07-29 17:11:14,064 - common.log_utils - INFO: 断言成功，【验证密码错误能否转账】用例通过
+file:2021-07-29 17:11:27,692 - common.log_utils - INFO: [eth上的clv]元素识别成功
+file:2021-07-29 17:11:27,726 - common.log_utils - INFO: 元素eth上的clv click成功
+file:2021-07-29 17:11:28,675 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:11:28,692 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:11:29,550 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:11:45,931 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:11:46,477 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:11:48,130 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:11:48,139 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:11:48,670 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:12:00,693 - common.log_utils - ERROR: [提交按钮]元素识别失败, 失败原因 Message: 
+
+file:2021-07-29 17:12:00,738 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:12:00,785 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:12:02,830 - common.log_utils - INFO: 断言成功，【验证转账金额大于余额能否转账】用例通过
+file:2021-07-29 17:12:14,885 - common.log_utils - INFO: [eth上的clv]元素识别成功
+file:2021-07-29 17:12:14,920 - common.log_utils - INFO: 元素eth上的clv click成功
+file:2021-07-29 17:12:15,874 - common.log_utils - INFO: [send按钮]元素识别成功
+file:2021-07-29 17:12:15,892 - common.log_utils - INFO: 元素send按钮 click成功
+file:2021-07-29 17:12:16,748 - common.log_utils - INFO: [地址输入框]元素识别成功
+file:2021-07-29 17:12:31,015 - common.log_utils - INFO: 元素地址输入框 send成功
+file:2021-07-29 17:12:31,573 - common.log_utils - INFO: [金额输入框]元素识别成功
+file:2021-07-29 17:12:32,625 - common.log_utils - INFO: 元素金额输入框 send成功
+file:2021-07-29 17:12:32,645 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:12:33,140 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:12:45,095 - common.log_utils - ERROR: [提交按钮]元素识别失败, 失败原因 Message: 
+
+file:2021-07-29 17:12:45,121 - common.log_utils - INFO: [继续按钮]元素识别成功
+file:2021-07-29 17:12:45,146 - common.log_utils - INFO: 元素继续按钮 click成功
+file:2021-07-29 17:12:47,186 - common.log_utils - INFO: 断言成功，【验证转账地址错误能否转账】用例通过

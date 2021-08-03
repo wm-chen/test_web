@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "CLover_Ui_Test.clover_app.testcases.test_utils",
+    "children" : [ {
+      "name" : "test_utils[re_start0]",
+      "uid" : "576dc83d89c6b275",
+      "parentUid" : "e1775bea9f62542ebecb6e452b0c1e53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627979559218,
+        "stop" : 1627979628170,
+        "duration" : 68952
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'用例版本': 'app_ui_testv1.0.0', '用例名称': 'test_send', '用例说明': '验证eth的clv能否转账', '是否执行': True, '期望结果': '6591\\nPending', '断言数据': {'断言定位类型': 'android', '定位值': 'new UiSelector().descriptionStartsWith(\"Send CLV\")', '取值类型': 'contentDescription', '定位下标': '0', '等待时间': '60'}, '用例参数': {'amount': '1', 'address': '0x4814c94a4e8e876750b3512d657ee79266566591', 'password': '12345678'}, '所属模块': 'send_model', '用例动作': <QuerySet [<PageAction: send_page.eth_clv>, <PageAction: send_page.send_button>, <PageAction: send_page.address>, <PageAction: send_page.amount>, <PageAction: send_page.continue_button>, <PageAction: send_page.confirm_button>, <PageAction: send_page.password>, <PageAction: send_page.confirm_button>]>}" ]
+    }, {
+      "name" : "test_utils[re_start1]",
+      "uid" : "4acbec63889d51ed",
+      "parentUid" : "e1775bea9f62542ebecb6e452b0c1e53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627979644113,
+        "stop" : 1627979668471,
+        "duration" : 24358
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'用例版本': 'app_ui_testv1.0.0', '用例名称': 'test_send', '用例说明': '验证clv主网币能否转账', '是否执行': True, '期望结果': 'cLEb\\nPending', '断言数据': {'断言定位类型': 'android', '定位值': 'new UiSelector().descriptionStartsWith(\"Send CLV\")', '取值类型': 'contentDescription', '定位下标': '0', '等待时间': ''}, '用例参数': {'amount': '1', 'address': '5DZabq7G2m12g1GUuqs66CCAVcmzdWRkXsGxpi4dgXFEcLEb', 'password': '12345678'}, '所属模块': 'send_model', '用例动作': <QuerySet [<PageAction: send_page.clv>, <PageAction: send_page.send_button>, <PageAction: send_page.address>, <PageAction: send_page.amount>, <PageAction: send_page.continue_button>, <PageAction: send_page.confirm_button>, <PageAction: send_page.password>, <PageAction: send_page.confirm_button>]>}" ]
+    } ],
+    "uid" : "CLover_Ui_Test.clover_app.testcases.test_utils"
+  } ],
+  "name" : "packages"
+}

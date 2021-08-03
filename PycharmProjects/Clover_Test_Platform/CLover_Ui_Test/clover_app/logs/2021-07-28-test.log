@@ -1,0 +1,389 @@
+file:2021-07-28 10:04:11,972 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:04:11,973 - common.log_utils - ERROR: 元素创建账号 click失败
+file:2021-07-28 10:04:22,652 - common.log_utils - ERROR: [密码输入框]元素识别成功
+file:2021-07-28 10:04:22,652 - common.log_utils - ERROR: 元素密码输入框 send失败
+file:2021-07-28 10:04:22,652 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:04:22,652 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:05:52,683 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:05:52,684 - common.log_utils - ERROR: 元素创建账号 click失败
+file:2021-07-28 10:06:03,235 - common.log_utils - ERROR: [密码输入框]元素识别成功
+file:2021-07-28 10:06:03,237 - common.log_utils - ERROR: 元素密码输入框 send失败
+file:2021-07-28 10:06:03,237 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:06:03,237 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:08:07,665 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:08:07,689 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:08:08,658 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:08:08,677 - common.log_utils - ERROR: 元素密码输入框 send失败
+file:2021-07-28 10:08:08,678 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:08:08,678 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:12:07,242 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:12:07,265 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:12:08,117 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:12:09,893 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:12:09,894 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:12:09,894 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:14:19,855 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:14:19,881 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:14:20,785 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:14:22,525 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:14:22,526 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:14:22,526 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:15:52,944 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:15:52,965 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:15:53,834 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:15:55,540 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:15:55,540 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:15:55,540 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:17:09,605 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:17:09,626 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:17:10,491 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:17:12,211 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:17:12,211 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:17:12,212 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:20:30,703 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:20:30,723 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:20:31,573 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:20:33,314 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:20:33,314 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:20:33,314 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:21:53,869 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:21:53,891 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:21:54,758 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:21:56,474 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:21:56,474 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:21:56,474 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:23:07,185 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:23:07,213 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:23:08,071 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:23:08,090 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:23:08,090 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:23:08,090 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:23:37,907 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:23:37,927 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:23:38,796 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:23:38,815 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:23:38,815 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:23:38,815 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-28 10:25:44,554 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:25:44,575 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:25:45,447 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:25:45,474 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:25:45,474 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:25:45,474 - common.log_utils - ERROR: 元素确认密码框 send失败,失败原因local variable 'element' referenced before assignment
+file:2021-07-28 10:29:42,633 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:29:42,653 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:29:43,528 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:29:43,576 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:29:43,618 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:29:43,618 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:29:43,618 - common.log_utils - ERROR: [确认密码框]元素识别失败
+file:2021-07-28 10:29:43,619 - common.log_utils - ERROR: 元素确认密码框 send失败,失败原因'NoneType' object is not subscriptable
+file:2021-07-28 10:50:38,693 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:50:38,712 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:50:39,550 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:50:39,567 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:50:39,584 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:50:39,584 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:50:39,584 - common.log_utils - ERROR: [确认密码框]元素识别失败
+file:2021-07-28 10:50:39,584 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:50:39,584 - common.log_utils - ERROR: [确认密码框]元素识别失败
+file:2021-07-28 10:50:39,584 - common.log_utils - ERROR: 元素确认密码框 send失败,失败原因'NoneType' object is not subscriptable
+file:2021-07-28 10:54:46,920 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:54:46,956 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:54:47,901 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:54:47,930 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:54:47,955 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:54:47,982 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 10:55:23,593 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 10:55:23,628 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 10:55:24,512 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 10:55:26,345 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 10:55:26,965 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 10:55:29,275 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:29:15,377 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:29:15,400 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:29:16,273 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:29:17,989 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:29:18,010 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:29:20,234 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:29:20,781 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:29:20,805 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:29:21,655 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:29:21,674 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:29:59,247 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:29:59,270 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:30:00,139 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:30:02,379 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:30:02,411 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:30:05,175 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:30:05,201 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:30:06,057 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:30:06,077 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:30:06,094 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:30:06,112 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:30:06,134 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:30:43,436 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:30:43,459 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:30:44,360 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:30:46,042 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:30:46,073 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:30:48,827 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:30:48,852 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:30:49,441 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:30:50,521 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:30:50,542 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:30:50,562 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:30:50,583 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:34:14,223 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:34:14,248 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:34:15,150 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:34:17,055 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:34:17,651 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:34:19,909 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:34:19,938 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:34:19,956 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:34:20,859 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:34:20,881 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:34:20,951 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:34:21,005 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:35:28,669 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:35:28,694 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:35:29,563 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:35:31,299 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:35:31,329 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:35:34,144 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:35:34,163 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:35:34,706 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:35:35,569 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:35:35,587 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:35:35,610 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:35:35,627 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:36:37,784 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:36:37,803 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:36:38,653 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:36:40,956 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:36:40,978 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:36:42,674 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:36:43,230 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:36:43,251 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:36:44,100 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:36:44,117 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:36:44,156 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:36:44,176 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:38:31,419 - common.log_utils - ERROR: [关闭按钮]元素识别成功
+file:2021-07-28 11:38:55,827 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:38:55,851 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:38:56,710 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:38:58,469 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:38:58,490 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:39:00,730 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:39:01,293 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:39:01,314 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:39:02,173 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:39:02,200 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:39:02,224 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:39:02,248 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:39:08,539 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:39:09,035 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:40:49,987 - common.log_utils - ERROR: [关闭按钮]元素识别成功
+file:2021-07-28 11:41:56,739 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:41:56,760 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:41:57,641 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:41:59,981 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:42:00,009 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:42:02,373 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:42:02,922 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:42:02,941 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:42:03,975 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:42:04,001 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:42:04,054 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:42:04,071 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:42:09,921 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:42:10,447 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:43:49,580 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 11:49:13,518 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:49:13,536 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:49:14,545 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:49:16,267 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:49:16,291 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:49:19,063 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:49:19,088 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:49:19,616 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:49:20,494 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:49:20,515 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:49:20,555 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:49:20,589 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:49:25,918 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:49:25,931 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:49:36,535 - common.log_utils - ERROR: [关闭按钮]元素识别成功
+file:2021-07-28 11:49:45,799 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-28 11:49:45,816 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-28 11:51:57,345 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 11:51:57,369 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 11:51:58,236 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:51:59,929 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:51:59,950 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:52:03,264 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:52:03,289 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:52:03,816 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:52:04,660 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 11:52:04,690 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 11:52:04,734 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:52:04,770 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:52:11,078 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:52:11,099 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:52:21,643 - common.log_utils - ERROR: [关闭按钮]元素识别成功
+file:2021-07-28 11:52:29,284 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-28 11:52:29,308 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-28 11:52:30,158 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-28 11:52:45,066 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-28 11:52:45,082 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 11:52:47,284 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 11:52:47,300 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 11:52:49,517 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 11:52:49,540 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 11:52:50,516 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 11:53:01,491 - common.log_utils - ERROR: [关闭按钮]元素识别成功
+file:2021-07-28 14:49:22,235 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 14:49:22,255 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 14:49:23,140 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 14:49:24,878 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 14:49:24,900 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 14:49:27,778 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 14:49:28,349 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:49:28,367 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:49:29,235 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 14:49:29,253 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 14:49:29,277 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:49:29,301 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:49:35,121 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:49:35,138 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:50:46,676 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 14:51:55,788 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 14:51:55,810 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 14:51:56,679 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 14:51:58,351 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 14:51:58,369 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 14:52:00,056 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 14:52:00,620 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:52:00,641 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:52:01,477 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 14:52:01,496 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 14:52:01,523 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:52:01,544 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:52:06,741 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:52:07,259 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:53:09,109 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 14:53:17,865 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-28 14:53:17,881 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-28 14:53:18,767 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-28 14:53:31,243 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-28 14:53:31,256 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 14:53:33,957 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 14:53:33,972 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 14:53:36,113 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 14:53:36,661 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:53:36,677 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:55:09,621 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 14:58:43,950 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 14:58:43,970 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 14:58:44,815 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 14:58:46,494 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 14:58:46,509 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 14:58:49,342 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 14:58:49,355 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:58:49,916 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:58:50,750 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 14:58:50,764 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 14:58:50,781 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:58:50,799 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 14:58:56,112 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 14:58:56,136 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 15:00:48,260 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 15:01:13,155 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-28 15:01:13,175 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-28 15:01:14,065 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-28 15:01:27,715 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-28 15:01:28,273 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 15:01:29,953 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 15:01:29,975 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 15:01:32,161 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 15:01:32,728 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 15:01:32,750 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 15:03:04,353 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 15:42:04,659 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 15:42:04,679 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 15:42:05,519 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 15:42:07,747 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 15:42:07,766 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 15:42:09,975 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 15:42:09,993 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 15:42:10,559 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 15:42:11,398 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 15:42:11,420 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 15:42:11,442 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 15:42:11,466 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 15:42:15,596 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 15:42:16,107 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 15:43:19,695 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 15:43:29,389 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-28 15:43:29,417 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-28 15:43:30,348 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-28 15:43:43,307 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-28 15:43:43,322 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 15:43:44,974 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 15:43:44,987 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 15:43:46,652 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 15:43:47,218 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 15:43:47,237 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 15:45:12,871 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 16:07:36,059 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 16:07:36,079 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 16:07:36,926 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 16:07:38,598 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 16:07:38,617 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 16:07:41,313 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 16:07:41,331 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 16:07:41,349 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 16:07:42,213 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 16:07:42,231 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 16:07:42,249 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 16:07:42,267 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 16:07:48,798 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 16:07:49,318 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 16:09:05,361 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 16:09:18,315 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-28 16:09:18,348 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-28 16:09:20,083 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-28 16:09:33,126 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-28 16:09:33,140 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 16:09:35,890 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 16:09:35,903 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 16:09:37,544 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 16:09:37,558 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 16:09:37,573 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 16:11:09,398 - common.log_utils - INFO: [关闭按钮]元素识别成功
+file:2021-07-28 16:13:54,904 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-28 16:13:54,925 - common.log_utils - INFO: 元素创建账号 click成功
+file:2021-07-28 16:13:55,869 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 16:13:57,556 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 16:13:58,114 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 16:14:00,343 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 16:14:00,360 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 16:14:00,381 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 16:14:01,264 - common.log_utils - INFO: [复制按钮]元素识别成功
+file:2021-07-28 16:14:01,288 - common.log_utils - INFO: 元素复制按钮 click成功
+file:2021-07-28 16:14:01,307 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 16:14:01,324 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 16:14:06,016 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 16:14:06,534 - common.log_utils - INFO: 元素确认按钮 click成功
+file:2021-07-28 16:15:10,371 - common.log_utils - INFO: [导入账号]元素识别成功
+file:2021-07-28 16:15:10,391 - common.log_utils - INFO: 元素导入账号 click成功
+file:2021-07-28 16:15:11,255 - common.log_utils - INFO: [输入seed]元素识别成功
+file:2021-07-28 16:15:24,589 - common.log_utils - INFO: 元素输入seed send成功
+file:2021-07-28 16:15:24,602 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-28 16:15:26,242 - common.log_utils - INFO: 元素密码输入框 send成功
+file:2021-07-28 16:15:26,251 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-28 16:15:28,447 - common.log_utils - INFO: 元素确认密码框 send成功
+file:2021-07-28 16:15:28,990 - common.log_utils - INFO: [确认按钮]元素识别成功
+file:2021-07-28 16:15:29,013 - common.log_utils - INFO: 元素确认按钮 click成功

@@ -1,0 +1,13 @@
+file:2021-07-27 18:32:02,042 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-27 18:34:16,398 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-27 18:34:16,398 - common.log_utils - ERROR: 元素创建账号 click失败
+file:2021-07-27 18:34:21,247 - common.log_utils - INFO: [密码输入框]元素识别成功
+file:2021-07-27 18:34:21,370 - common.log_utils - ERROR: 元素密码输入框 send失败
+file:2021-07-27 18:34:21,370 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-27 18:34:21,370 - common.log_utils - ERROR: 元素确认密码框 send失败
+file:2021-07-27 18:34:45,752 - common.log_utils - INFO: [创建账号]元素识别成功
+file:2021-07-27 18:34:45,752 - common.log_utils - ERROR: 元素创建账号 click失败
+file:2021-07-27 18:34:56,308 - common.log_utils - ERROR: [密码输入框]元素识别成功
+file:2021-07-27 18:34:56,309 - common.log_utils - ERROR: 元素密码输入框 send失败
+file:2021-07-27 18:34:56,309 - common.log_utils - INFO: [确认密码框]元素识别成功
+file:2021-07-27 18:34:56,309 - common.log_utils - ERROR: 元素确认密码框 send失败
